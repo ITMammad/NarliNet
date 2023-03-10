@@ -1,5 +1,5 @@
 # NarliNet
-NarliNet is A Web Proxy And Virual Private Network Building System That Developed In Python And It Works With NarliNet Client Applications in All Popular OSs(Like Windows, MacOS, Linux, Android & IOS)
+NarliNet is A Web Proxy And Virtual Private Network Building System That Developed In Python And It Works With NarliNet Client Applications in All Popular OSs(Like Windows, MacOS, Linux, Android & IOS)
 
 # NarliNet Standard
 NarliNet Standards Are Some Rules And Definitions:
