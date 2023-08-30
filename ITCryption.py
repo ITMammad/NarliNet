@@ -14,7 +14,6 @@ def b64decode(b64):
     return string
 
 def encode(data):
-    # jsonData = json.dumps(data).encode("utf-8")
     jsonData = json.dumps(data)
     b64CharsArray = []
     for char in jsonData:
